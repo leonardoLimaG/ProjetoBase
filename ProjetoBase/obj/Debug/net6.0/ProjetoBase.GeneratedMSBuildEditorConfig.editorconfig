@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoBase
 build_property.RootNamespace = ProjetoBase
-build_property.ProjectDir = C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\
+build_property.ProjectDir = C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase
+build_property.MSBuildProjectDirectory = C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/leonardo.garcia/Documents/Leo/Curso Udemy/ProjetoBase/ProjetoBase/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/Home/Demonstrativo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZW1vbnN0cmF0aXZvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leonardo.garcia/Documents/Leo/Curso Udemy/ProjetoBase/ProjetoBase/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/Home/Despesas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXNwZXNhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leonardo.garcia/Documents/Leo/Curso Udemy/ProjetoBase/ProjetoBase/Views/Home/Receitas.cshtml]
+[C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/Home/Receitas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWNlaXRhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leonardo.garcia/Documents/Leo/Curso Udemy/ProjetoBase/ProjetoBase/Views/Shared/Error.cshtml]
+[C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leonardo.garcia/Documents/Leo/Curso Udemy/ProjetoBase/ProjetoBase/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leonardo.garcia/Documents/Leo/Curso Udemy/ProjetoBase/ProjetoBase/Views/_ViewImports.cshtml]
+[C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leonardo.garcia/Documents/Leo/Curso Udemy/ProjetoBase/ProjetoBase/Views/_ViewStart.cshtml]
+[C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leonardo.garcia/Documents/Leo/Curso Udemy/ProjetoBase/ProjetoBase/Views/Shared/_Layout.cshtml]
+[C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-s579ifav1g

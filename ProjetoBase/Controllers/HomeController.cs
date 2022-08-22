@@ -13,12 +13,16 @@ namespace ProjetoBase.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Demonstrativo()
+        {
+            return View("Demonstrativo");
+        }
+
+        public IActionResult Despesas()
         {
             return View();
         }
-
-        public IActionResult Privacy()
+        public IActionResult Receitas()
         {
             return View();
         }
