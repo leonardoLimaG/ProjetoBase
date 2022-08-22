@@ -1,26 +1,26 @@
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\bin\Debug\net6.0\appsettings.json
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\bin\Debug\net6.0\ProjetoBase.staticwebassets.runtime.json
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\bin\Debug\net6.0\ProjetoBase.exe
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\bin\Debug\net6.0\ProjetoBase.deps.json
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\bin\Debug\net6.0\ProjetoBase.runtimeconfig.json
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\bin\Debug\net6.0\ProjetoBase.dll
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\bin\Debug\net6.0\ProjetoBase.pdb
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.csproj.AssemblyReference.cache
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.AssemblyInfoInputs.cache
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.AssemblyInfo.cs
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.csproj.CoreCompileInputs.cache
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.RazorAssemblyInfo.cache
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.RazorAssemblyInfo.cs
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\scopedcss\bundle\ProjetoBase.styles.css
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\scopedcss\projectbundle\ProjetoBase.bundle.scp.css
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.dll
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\refint\ProjetoBase.dll
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.pdb
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.genruntimeconfig.cache
-C:\Users\leonardo.garcia\Documents\Leo\Curso Udemy\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ref\ProjetoBase.dll
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\bin\Debug\net6.0\appsettings.json
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\bin\Debug\net6.0\ProjetoBase.staticwebassets.runtime.json
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\bin\Debug\net6.0\ProjetoBase.exe
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\bin\Debug\net6.0\ProjetoBase.deps.json
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\bin\Debug\net6.0\ProjetoBase.runtimeconfig.json
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\bin\Debug\net6.0\ProjetoBase.dll
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\bin\Debug\net6.0\ProjetoBase.pdb
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.csproj.AssemblyReference.cache
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.AssemblyInfoInputs.cache
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.AssemblyInfo.cs
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.csproj.CoreCompileInputs.cache
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.RazorAssemblyInfo.cache
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.RazorAssemblyInfo.cs
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\scopedcss\bundle\ProjetoBase.styles.css
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\scopedcss\projectbundle\ProjetoBase.bundle.scp.css
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.dll
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\refint\ProjetoBase.dll
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.pdb
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ProjetoBase.genruntimeconfig.cache
+C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase\obj\Debug\net6.0\ref\ProjetoBase.dll
