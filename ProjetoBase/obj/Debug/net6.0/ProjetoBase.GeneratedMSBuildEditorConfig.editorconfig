@@ -15,8 +15,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Leo e Manu\Documents\My Web Sites\ProjetoBase\ProjetoBase
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/Despesas/CriarDespesa.csHTML]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzcGVzYXNcQ3JpYXJEZXNwZXNhLmNzSFRNTA==
+[C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/Despesa/AlterarDespesa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzcGVzYVxBbHRlcmFyRGVzcGVzYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/Despesa/CriarCategoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzcGVzYVxDcmlhckNhdGVnb3JpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/Despesa/CriarDespesa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzcGVzYVxDcmlhckRlc3Blc2EuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Leo e Manu/Documents/My Web Sites/ProjetoBase/ProjetoBase/Views/Home/Demonstrativo.cshtml]

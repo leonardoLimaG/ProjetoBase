@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Criar Categorias";
+}
+
+<div align="center">
+    <h1>@ViewData["Title"]</h1>
+    <div style="max-width:300px;">
+        <form method="post" align="left">
+            <p style="margin:0">Nome da categoria:</p>
+            <input / style="width:300px">
+            <p style="margin:0">Digite o que se enquadra na categoria:</p>
+            <input / style="width:300px">
+            <div style="margin-top:15px;">
+                <button class="btn btn-primary" type="submit">Salvar</button>
+                <button class="btn btn-primary" style="background-color:#F51E00; border-color:#F51E00" type="submit" asp-controller="Home" asp-action="Despesas">Cancelar</button>
+            </div>
+            
+        </form>
+    </div>
+</div>

@@ -6,9 +6,18 @@ namespace ProjetoBase.Controllers
 {
     public class DespesaController : Controller
     {
+        private readonly ILogger<HomeController> _logger;
         public IActionResult CriarDespesa()
         {
-            return View();
+            return View("CriarDespesa");
+        }
+        public IActionResult AlterarDespesa()
+        {
+            return View("AlterarDespesa");
+        }
+        public IActionResult CriarCategoria()
+        {
+            return View("CriarCategoria");
         }
     }
 }

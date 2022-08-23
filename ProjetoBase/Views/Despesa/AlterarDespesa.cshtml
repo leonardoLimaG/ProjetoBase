@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Alterar Despesas";
+}
+
+<div align="center">
+    <h1>@ViewData["Title"]</h1>
+    <div style="max-width:300px;">
+        <form method="post" align="left">
+            <p>Nome da despesa:</p>
+            <input / style="width:300px">
+            <p>Valor da despesa:</p>
+            <input / style="width:300px">
+            <p>Digite a data da despesa:</p>
+            <input / style="width:300px">
+            <div style="margin-bottom:10px; width:300px" align="left">
+                <p>Escolha a sua categoria:</p>
+                <select class="form-select" aria-label="Default select example" style="width=" 100%">
+                    <option selected>MENU DE CATEGORIAS</option>
+                    <option value="1">One</option>
+                    <option value="2">Two</option>
+                    <option value="3">Three</option>
+                </select>
+            </div>
+
+            <button class="btn btn-primary" type="submit">Alterar</button>
+            <button class="btn btn-primary" style="background-color:#F51E00; border-color:#F51E00" type="submit" asp-controller="Home" asp-action="Despesas">Cancelar</button>
+        </form>
+    </div>
+</div>
