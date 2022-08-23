@@ -2,12 +2,40 @@
     ViewData["Title"] = "Despesas";
 }
 
-<div>
-    <div>
+<div align="center" style="margin:25px">
+    <div align="left" style="padding-inline:5px;">
         <a asp-controller="Despesa" asp-action="CriarDespesa" type="button" class="btn btn-outline-primary">Criar Despesa</a>
-        <h1>@ViewData["Title"]</h1>
+        <a asp-controller="Despesa" asp-action="CriarCategoria" type="button" class="btn btn-outline-primary">Criar Categoria</a>
     </div>
-    <table>
-
+    <h1>@ViewData["Title"]</h1>
+    <table cellpadding="10px">
+        <tbody>
+            <tr>
+                <td padding="5px">
+                    Nome da despesa |
+                </td>
+                <td>
+                    Valor da despesa |
+                </td>
+                <td>
+                    Categoria  |
+                </td>
+                <td>
+                    Data da despesa
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
+                <td> Frutas </td>
+                <td> R$ 15,00 </td>
+                <td> Comida </td>
+                <td> 16/08/2022</td>
+                <td>
+                    <button type="button" class="btn btn-warning" asp-controller="Despesa" asp-action="AlterarDespesa">Editar</button>
+                    <button type="button" class="btn btn-danger">Excluir</button>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>

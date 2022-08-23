@@ -11,5 +11,13 @@ namespace ProjetoBase.Controllers
         {
             return View("CriarDespesa");
         }
+        public IActionResult AlterarDespesa()
+        {
+            return View("AlterarDespesa");
+        }
+        public IActionResult CriarCategoria()
+        {
+            return View("CriarCategoria");
+        }
     }
 }
