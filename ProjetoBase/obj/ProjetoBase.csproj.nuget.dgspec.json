@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leo e Manu\\Documents\\My Web Sites\\ProjetoBase\\ProjetoBase\\ProjetoBase.csproj": {}
+    "C:\\Users\\leonardo.garcia\\Documents\\Leo\\Curso Udemy\\ProjetoBase\\ProjetoBase\\ProjetoBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leo e Manu\\Documents\\My Web Sites\\ProjetoBase\\ProjetoBase\\ProjetoBase.csproj": {
+    "C:\\Users\\leonardo.garcia\\Documents\\Leo\\Curso Udemy\\ProjetoBase\\ProjetoBase\\ProjetoBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leo e Manu\\Documents\\My Web Sites\\ProjetoBase\\ProjetoBase\\ProjetoBase.csproj",
+        "projectUniqueName": "C:\\Users\\leonardo.garcia\\Documents\\Leo\\Curso Udemy\\ProjetoBase\\ProjetoBase\\ProjetoBase.csproj",
         "projectName": "ProjetoBase",
-        "projectPath": "C:\\Users\\Leo e Manu\\Documents\\My Web Sites\\ProjetoBase\\ProjetoBase\\ProjetoBase.csproj",
-        "packagesPath": "C:\\Users\\Leo e Manu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leo e Manu\\Documents\\My Web Sites\\ProjetoBase\\ProjetoBase\\obj\\",
+        "projectPath": "C:\\Users\\leonardo.garcia\\Documents\\Leo\\Curso Udemy\\ProjetoBase\\ProjetoBase\\ProjetoBase.csproj",
+        "packagesPath": "C:\\Users\\leonardo.garcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.garcia\\Documents\\Leo\\Curso Udemy\\ProjetoBase\\ProjetoBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Leo e Manu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leonardo.garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
