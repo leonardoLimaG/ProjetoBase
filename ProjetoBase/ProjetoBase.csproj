@@ -27,7 +27,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="Views\Despesas\.editorconfig" />
+    <None Remove="Views\Despesa\.editorconfig" />
   </ItemGroup>
 
 </Project>
