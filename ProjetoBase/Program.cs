@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ProjetoBase.Context;
+using ProjetoBase.Repositorio;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddEntityFrameworkSqlServer();
 //adicionando o serviço do DbContext, injetando a string de conexão. De acordo com o appsettings.json
 builder.Services.AddDbContext<BancoContext>(o => o.UseSqlServer(builder.Configuration.GetConnectionString("DataBase")));
+//injetando a implementação da interface.
+builder.Services.AddScoped<IDespesaRepositorio, DespesaRepositorio>();
 
 var app = builder.Build();
 

@@ -1,16 +1,23 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProjetoBase.Models;
+using ProjetoBase.Repositorio;
 using System.Diagnostics;
 
 namespace ProjetoBase.Controllers
 {
     public class DespesaController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IDespesaRepositorio _despesaRepositorio;
+        public DespesaController(IDespesaRepositorio despesaRepositorio) {
+
+        }
+       
         public IActionResult CriarDespesa()
         {
-            return View("CriarDespesa");
+            return View();
         }
+
+        
         public IActionResult AlterarDespesa()
         {
             return View("AlterarDespesa");
@@ -19,5 +26,6 @@ namespace ProjetoBase.Controllers
         {
             return View("CriarCategoria");
         }
+
     }
 }

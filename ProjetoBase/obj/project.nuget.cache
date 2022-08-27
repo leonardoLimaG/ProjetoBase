@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Y8JiDMwoWVn8Ys8yQ4ksAJcPR25LIAhfzcsDKxbn8yWoB+Bq0Wm5pK8jRmlkp926SfpNREkXOG4JyrPl7YeD4A==",
+  "dgSpecHash": "wZoZC+p2lwc2QN2/NNsbxlA6Tl5hrH/P1V/EEVdMMU7rZWvF+huZJyLX0lct+yp3gakjCEGKaPZM6VQbVicPHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Leo e Manu\\Documents\\My Web Sites\\ProjetoBase\\ProjetoBase\\ProjetoBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leo e Manu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Leo e Manu\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Leo e Manu\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
+    "C:\\Users\\Leo e Manu\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
     "C:\\Users\\Leo e Manu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Leo e Manu\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Leo e Manu\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
@@ -46,6 +49,7 @@
     "C:\\Users\\Leo e Manu\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\Leo e Manu\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\Leo e Manu\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
+    "C:\\Users\\Leo e Manu\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
     "C:\\Users\\Leo e Manu\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
