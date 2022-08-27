@@ -17,7 +17,14 @@ namespace ProjetoBase.Controllers
             return View();
         }
 
-        
+        [HttpPost]
+        public IActionResult CriarDespesa(DespesaModel despesa)
+        {
+            _despesaRepositorio.Adicionar(despesa);
+           
+            return RedirectToAction("Despesa");
+
+        }
         public IActionResult AlterarDespesa()
         {
             return View("AlterarDespesa");

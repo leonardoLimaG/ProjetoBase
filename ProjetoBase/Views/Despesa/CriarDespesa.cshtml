@@ -1,8 +1,4 @@
 ﻿@model DespesaModel
-@{
-   ViewData["Title"] = "Criar Despesa";
-   Layout = "~/Views/Shared/_Layout.cshtml";
-}
 
 <div align="center">
     
@@ -10,14 +6,14 @@
     <div style="max-width:300px;">
         <form asp-controller="Despesa" asp-action="CriandoDespesa" method="post" align="left">
             <p>Nome da despesa:</p>
-            <input / style="width:300px" asp-for="Nome">
+            <input style="width:300px" asp-for="Nome">
             <p>Valor da despesa:</p>
             <input / style="width:300px" asp-for="valor">
             <p>Digite a data da despesa:</p>
-            <input / style="width:300px" asp-for="data">
+            <input style="width:300px" asp-for="data">
             <div style="margin-bottom:10px; width:300px" align="left">
                 <p>Escolha a sua categoria:</p>
-                <select class="form-select" aria-label="Default select example" style="width=" 100%">
+                <select class="form-select" aria-label="Default select example" style="width: 100%">
                     <option selected>MENU DE CATEGORIAS</option>
                     <option value="1">One</option>
                     <option value="2">Two</option>
